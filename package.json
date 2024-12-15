@@ -1,0 +1,14 @@
+{
+  "name": "phase-1-functions",
+  "version": "1.0.0",
+  "description": "- Define abstraction\r - Explain that functions are abstractions\r - Explain how to _call_ a function\r - Define \"Generalization\"\r - Demonstrate \"Generalization\" by using _parameters_ and _arguments_\r - Demonstrate _return values_",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^11.0.1"
+  }
+}
